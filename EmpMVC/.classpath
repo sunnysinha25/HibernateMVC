@@ -18,17 +18,17 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/MAYUKHR/Downloads/jstl-1.2.jar">
+	<classpathentry kind="lib" path="C:/Users/SUNNYSI/Downloads/jstl-1.2.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/MAYUKHR/Downloads/jsp-api-2.2.jar">
+	<classpathentry kind="lib" path="C:/Users/SUNNYSI/Downloads/jsp-api-2.2.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/MAYUKHR/Downloads/servlet-api-2.5.jar">
+	<classpathentry kind="lib" path="C:/Users/SUNNYSI/Downloads/servlet-api-2.5.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
